@@ -1,0 +1,3 @@
+ZIB-IOL/lemmata, commit a20ff2d299b36e7357170ddd584eb4e462e95b06.
+All modules in the import closure of Lemmata.TensorRank.Main. Original declarations and proofs, with imports of Lemmata modules prefixed by OddCycleTarget for this project.
+The native checker uses classic modules. The module directive and exposed-public-section markers were removed and public import was changed to import.

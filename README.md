@@ -1,6 +1,6 @@
 # Three-Block Bounds for the Asymptotic Rank of Weighted Graph Tensors in Lean 4
 
-[中文说明](README.zh-CN.md) · [Paper correspondence](docs/PAPER_MAP.md) · [Third-party licenses](licenses/)
+[中文说明](README.zh-CN.md) · [Paper (PDF)](paper/Three_Block_Bounds_for_the_Asymptotic_Rank_of_Weighted_Graph_Tensors.pdf) · [Paper correspondence](docs/PAPER_MAP.md) · [Third-party licenses](licenses/)
 
 This repository hosts the Lean 4 formalization of the paper:
 
@@ -66,6 +66,7 @@ The toolchain is **Lean `v4.35.0`** (`leanprover/lean4:v4.35.0`) with **Mathlib*
 - `OddCycleTarget/OffsetSharp.lean`, `OddCube.lean`, `UniversalPrice.lean`, `PacketPrice.lean`, `SharpPerimeter.lean`: sharp odd-cycle perimeter bound for Ptolemy--Zhou pseudometrics.
 - `OddRoot.lean`, `OddCycleTarget/Equality.lean`, `VerifyResults.lean`: top-level assembly, final theorems, and axiom checks.
 - `OddCycleTarget/C5Target/` and `OddCycleTarget/Lemmata/`: self-contained vendored upstream Lean libraries (see attribution below).
+- `paper/Three_Block_Bounds_for_the_Asymptotic_Rank_of_Weighted_Graph_Tensors.pdf`: backup copy of the latest manuscript PDF.
 - `docs/PAPER_MAP.md`: correspondence between paper statements and Lean declarations.
 - `scripts/audit.sh`: reproducible build, `leanchecker` replay, and axiom audit script.
 

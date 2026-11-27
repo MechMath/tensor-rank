@@ -1,6 +1,6 @@
 # 加权图张量渐近秩的三块界（Lean 4 形式化）
 
-[English](README.md) · [论文定理对照表](docs/PAPER_MAP.md) · [第三方许可证](licenses/)
+[English](README.md) · [论文全文 (PDF)](paper/Three_Block_Bounds_for_the_Asymptotic_Rank_of_Weighted_Graph_Tensors.pdf) · [论文定理对照表](docs/PAPER_MAP.md) · [第三方许可证](licenses/)
 
 本仓库用于存放论文的 Lean 4 形式化代码：
 

@@ -5,7 +5,7 @@ This document tracks the formalization status of the results in:
 > **Three-Block Bounds for the Asymptotic Rank of Weighted Graph Tensors**
 > Zhengyang Wang, Yichuan Cao, Hongbo Li, Xiao-Shan Gao
 
-This repository is intended to house the Lean 4 formalization of the full paper.
+This repository hosts the manuscript PDF ([`paper/Three_Block_Bounds_for_the_Asymptotic_Rank_of_Weighted_Graph_Tensors.pdf`](../paper/Three_Block_Bounds_for_the_Asymptotic_Rank_of_Weighted_Graph_Tensors.pdf)) together with the Lean 4 formalization of the full paper.
 **Currently, only the uniform odd-cycle theorem ($C_m$, Corollary 17) is formalized and kernel-checked.**
 The remaining theorems are established by written proofs in the manuscript and will be added incrementally.
 
